@@ -22,7 +22,7 @@ class Student:
         self.name = name
         self.age = age
         self.Fees = Fees
-        print("Student created successfully")
+        print("Student Card created successfully")
 s1 = Student("Muhammad Afzal", 27, 1000)
 print(s1.name)
 print(s1.age)
