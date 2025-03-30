@@ -12,7 +12,7 @@ class ElectricCar(Car):
         super().__init__(brand, model)
         self.battery_size = battery_size
         
-my_tesla = ElectricCar("Tesla", "Model S", "90Kw")
+my_tesla = ElectricCar("Tesla", "Model S Class", "90Kw")
 print(my_tesla.display_details())  # Output: Tesla Model S
 
 
