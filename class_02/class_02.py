@@ -13,7 +13,7 @@ print(myName)
 studentName : str = "Muhammad Afzal"
 fName : str = "Iqbal Yousaf"
 age : int = 26
-qualifaction : str = "Master of Computer Science and Engineering."
+qualifaction : str = "Cloud Computing and Agentic AI Engineering."
 address : str = "Chak No 5 Kalan G.B P/O same Tahsil & District Nankana Sahib"
 
 card : str = f"""
