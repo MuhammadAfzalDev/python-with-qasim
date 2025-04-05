@@ -11,7 +11,7 @@ value = Union[int, str, dict, set, tuple]
 
 data : Dict[key,value] = {
     "name" : "Muhammad Afzal",
-    "age" : "26",
+    "age" : "27",
     "city" : "Nankana Sahib",
     "country" : "Pakistan",
     "hobbies" : {"reading", "writing", "coding"},
